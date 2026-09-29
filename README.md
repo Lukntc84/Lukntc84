@@ -42,3 +42,4 @@ Desenvolvedor **Full Stack** em São Paulo, com experiência em **automação**,
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccas-santana-santos-0a1067235)
+ [![Currículo online](https://img.shields.io/badge/Curr%C3%ADculo%20online-0F172A?style=flat&logo=googlechrome&logoColor=white)](https://curriculo-luccassantana.com)
