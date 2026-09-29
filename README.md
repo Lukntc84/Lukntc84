@@ -1,6 +1,6 @@
 # Olá, eu sou o Luccas 👋
 
-Desenvolvedor **Full Stack** em São Paulo, com experiência em **automação**, integração de **APIs** e desenvolvimento de sistemas web de gestão. Atualmente sou desenvolvedor na Markem, onde cuido do ciclo completo de otimização operacional: identifico oportunidades, avalio soluções e implemento automações. Formado em Análise e Desenvolvimento de Sistemas (SENAC).
+Desenvolvedor **Full Stack** em São Paulo, com experiência em **automação**, integração de **APIs** e desenvolvimento de sistemas web de gestão. Atuei como desenvolvedor PJ na Markem, cuidando do ciclo completo de otimização operacional: identificar oportunidades, avaliar soluções e implementar automações. Formado em Análise e Desenvolvimento de Sistemas (SENAC).
 
 ## 🛠️ Tecnologias
 
@@ -21,7 +21,7 @@ Desenvolvedor **Full Stack** em São Paulo, com experiência em **automação**,
 
 ## 💼 Experiência
 
-- **Desenvolvedor, Markem** (09/2025 até hoje): otimização operacional e desenvolvimento de automações de sistemas.
+- **Desenvolvedor (PJ), Markem** (09/2025 a 09/2026): otimização operacional e desenvolvimento de automações de sistemas.
 - **Desenvolvedor FullStack Júnior, T-Legal** (09/2024 a 11/2024): C# e bancos de dados, automação de testes com Selenium e .NET, integrações com APIs (incluindo a API Gemini).
 - **Suporte de TI (estágio), Prefeitura de São Paulo** (06/2023 a 06/2024): suporte a hardware e software e manutenção de equipamentos.
 
@@ -42,4 +42,4 @@ Desenvolvedor **Full Stack** em São Paulo, com experiência em **automação**,
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccas-santana-santos-0a1067235)
- [![Currículo online](https://img.shields.io/badge/Curr%C3%ADculo%20online-0F172A?style=flat&logo=googlechrome&logoColor=white)](https://curriculo-luccassantana.com)
+[![Currículo online](https://img.shields.io/badge/Curr%C3%ADculo%20online-0F172A?style=flat&logo=googlechrome&logoColor=white)](https://curriculo-luccassantana.com)
